@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ExtraCredit","l":"ImagePlus"},{"p":"com.ExtraCredit","l":"ImageRabbit"},{"p":"com.ExtraCredit","l":"Main"},{"p":"com.ExtraCredit","l":"Start"},{"p":"com.ExtraCredit","l":"Text"},{"p":"com.ExtraCredit","l":"TopPanel"}];updateSearchResults();
