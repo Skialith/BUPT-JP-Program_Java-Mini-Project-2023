@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.Task1","l":"ImagePlus"},{"p":"com.Task1","l":"ImageRabbit"},{"p":"com.Task1","l":"Main"},{"p":"com.Task1","l":"Start"},{"p":"com.Task1","l":"Text"},{"p":"com.Task1","l":"TopPanel"}];updateSearchResults();
